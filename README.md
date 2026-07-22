@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Tanmay Srivastava banner" width="100%">
+  <img src="assets/profile-banner.gif" alt="Tanmay Srivastava banner" width="100%">
 </p>
 
 <p align="center">
