@@ -77,8 +77,8 @@ I treat AI as a delivery partner, not a shortcut: I brief it clearly, review eve
 ### Currently
 
 ```
-Building    Decision Lab OS — moving from manually orchestrated agents
-            toward a command-driven, evidence-governed system
+Building    MacroLab - Indian food nutrition data against real grocery prices, so cost per nutrient becomes a plannable number.
+            Decision Lab OS — moving from manually orchestrated agents toward a command-driven, evidence-governed system
 Refining    Wealth Analytics Dashboard — a live project, updated with
             every new bank/fund/insurance statement
 Learning    n8n, to replace ad-hoc scripts with real automation pipelines
